@@ -1,5 +1,5 @@
 # SQL-and-Python-Advanced-Sales-Analysis
-Case Study: Data Analyst Task Summary
+
 As a Data Analyst, I was tasked with providing insights for the product team using four datasets. These datasets were provided to help the product team identify trends and patterns to guide their project strategy. Below, I’ll outline the steps I took to complete the tasks, as well as the SQL and Python techniques used to analyze the data.
 
 Step 1: Data Preparation
